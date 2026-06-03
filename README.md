@@ -8,9 +8,23 @@
 
 <br>
 
-• [Portfolio](https://jam-sher.netlify.app) <br>
-• [LinkedIn](https://linkedin.com/in/jamsher-mohammed) <br>
-• [Email](mailto:jamsher.sde@gmail.com) <br>
+<p align="center">
+<a href="https://github.com/jamsher-sde">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/jamsher-mohammed">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://jam-sher.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:jamsher.sde@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
@@ -19,16 +33,27 @@
 ## About Me
 
 ```yaml
-Name: Jamsher Mohammed
-Location: Hyderabad, India
-Education: B.E. CSE (IoT, Cyber Security & Blockchain)
-Interests:
-  - Artificial Intelligence
-  - Full Stack Development
-  - Computer Vision
-  - Cyber Security
-  - Blockchain
-Status: Open to Internships & Opportunities
+About Me
+const jamsher = {
+    location: "Hyderabad, India",
+    education: "B.E. CSE (IoT, Cyber Security & Blockchain)",
+    role: "Software Development Engineer",
+    interests: [
+        "Artificial Intelligence",
+        "Cyber Security",
+        "Computer Vision",
+        "Blockchain",
+        "Full Stack Development"
+    ],
+    currentlyBuilding: [
+        "I.R.I.S.",
+        "EARN-Z",
+        "AI Solutions"
+    ],
+    motto: "Engineering intelligent solutions for real-world problems."
+};
+🌐 Connect With Me
+💼 Open for Internships • Freelance Projects • Collaborations
 ```
 
 ---
