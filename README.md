@@ -8,7 +8,9 @@
 
 <br>
 
-[Portfolio](https://jam-sher.netlify.app) • [LinkedIn](https://linkedin.com/in/jamsher-mohammed) • [Email](mailto:jamsher.sde@gmail.com)
+• [Portfolio](https://jam-sher.netlify.app) <br>
+• [LinkedIn](https://linkedin.com/in/jamsher-mohammed) <br>
+• [Email](mailto:jamsher.sde@gmail.com) <br>
 
 </div>
 
